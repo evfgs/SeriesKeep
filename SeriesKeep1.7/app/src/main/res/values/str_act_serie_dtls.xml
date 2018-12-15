@@ -1,0 +1,7 @@
+<resources>
+    <string name="str_act_serie_dtls_label">Série escolhida</string>
+
+    <!-- MOVIE OVERVIEW -->
+    <string name="str_act_serie_dtls_label_overview">Descrição</string>
+    <string name="str_act_serie_dtls_txt_overview_not_found">Descrição não encontrada!</string>
+</resources>

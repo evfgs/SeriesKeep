@@ -1,0 +1,31 @@
+<resources>
+
+    <string name="str_comm_base_url">https://api.themoviedb.org/3/</string>
+
+    <string name="str_server_routes_base_protocol">https</string>
+    <string name="str_server_routes_base_url">api.themoviedb.org</string>
+    <string name="str_server_routes_base_image_url">https://image.tmdb.org/t/p/w500/</string>
+    <string name="str_server_routes_base_api_version">3</string>
+    <string name="str_server_routes_base_api_v3">3e910d33b3410c4a033c82e9dbc2ae52</string>
+    <string name="str_server_routes_base_api_v4">eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIzZTkxMGQzM2IzNDEwYzRhMDMzYzgyZTlkYmMyYWU1MiIsInN1YiI6IjViZjMyZWM3YzNhMzY4MThiNjA5NmU1ZiIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.bzQCgBIKaBKF8yTp79FvcZxOj24sLxsL3DSq4iR1tUM</string>
+
+    <string name="str_server_routes_entity_serie">serieInstance</string>
+
+    <string name="str_server_routes_service_search">search</string>
+    <string name="str_server_routes_service_discover">discover</string>
+    <string name="str_server_routes_service_find">find</string>
+
+    <string name="str_server_routes_attr_api_key">api_key</string>
+    <string name="str_server_routes_attr_sort_by">sort_by</string>
+
+    <string name="str_server_routes_attr_primary_release_date">primary_release_date</string>
+    <string name="str_server_routes_attr_primary_release_date_get">primary_release_date.get</string>
+    <string name="str_server_routes_attr_query">query</string>
+    <string name="str_server_routes_attr_with_genres">with_genres</string>
+    <string name="str_server_routes_attr_certification_country">certification_country</string>
+    <string name="str_server_routes_attr_certification">certification</string>
+    <string name="str_server_routes_attr_with_people">with_people</string>
+    <string name="str_server_routes_attr_primary_release_year">primary_release_year</string>
+    <string name="str_server_routes_attr_upcoming">upcoming</string>
+    <string name="str_server_routes_attr_language">language</string>
+</resources>

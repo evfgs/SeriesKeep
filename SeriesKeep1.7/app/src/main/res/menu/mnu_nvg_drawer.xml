@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group
+        android:id="@+id/menu_top"
+        android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/actions_series"
+            android:icon="@drawable/noun_television_166841"
+            android:title="Séries" />
+        <item
+            android:id="@+id/action_filmes"
+            android:icon="@drawable/noun_movies_2024622"
+            android:title="Filmes" />
+
+        <item
+            android:id="@+id/action_seriesFilmes_seguidos"
+            android:icon="@drawable/noun_check_mark_41539"
+            android:title="Séries e Filmes Seguidas" />
+
+    </group>
+</menu>

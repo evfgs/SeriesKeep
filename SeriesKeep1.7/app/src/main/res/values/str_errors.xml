@@ -1,0 +1,9 @@
+<resources>
+    <string name="str_error_list_upcoming_events">
+        Ops! Pedimos desculpas mas não conseguimos processar os resultados vindos do servidor. Por favor tente novamente.
+    </string>
+
+    <string name="str_error_search_serie_failed">
+        Algo deu errado na tentativa de pesquisar por uma série. Por favor entre em contato com os administradores.
+    </string>
+</resources>

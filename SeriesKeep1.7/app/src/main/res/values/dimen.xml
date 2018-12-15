@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="dim_common_loading_size">40dip</dimen>
+
+    <dimen name="textH0">24sp</dimen>
+    <dimen name="textH1">18sp</dimen>
+    <dimen name="textH2">16sp</dimen>
+    <dimen name="textH3">14sp</dimen>
+    <dimen name="textH4">12sp</dimen>
+    <dimen name="textH5">10sp</dimen>
+    <integer name="textBorderRadius">3</integer>
+
+    <dimen name="rsc_common_button_height">60dip</dimen>
+
+    <dimen name="rsc_common_default_card_elevation">4dp</dimen>
+
+    <dimen name="dim_act_homepage_cover_height">171dip</dimen>
+    <dimen name="dim_act_serie_dtls_cover_height">250dip</dimen>
+    <dimen name="dim_act_serie_dtls_size">85dip</dimen>
+
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="nav_header_vertical_spacing">8dp</dimen>
+    <dimen name="nav_header_height">176dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+
+</resources>
