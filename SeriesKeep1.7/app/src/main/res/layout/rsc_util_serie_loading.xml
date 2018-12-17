@@ -24,7 +24,7 @@
         android:background="@android:color/transparent"
         android:shadowColor="@color/colorTextShadowLight"
         android:shadowRadius="@integer/textBorderRadius"
-        android:text="@string/rsc_act_search_movie_loading"
+        android:text="@string/rsc_act_search_serie_loading"
         android:textAlignment="center"
         android:textColor="@color/colorTextLight"
         android:textSize="@dimen/textH2" />

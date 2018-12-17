@@ -1,0 +1,5 @@
+<resources>
+    <string name="rsc_act_search_serie_result_not_found">Nenhum resultado encontrado para \'XYzG$%Y78\'</string>
+    <string name="rsc_act_search_serie_hint">Consulte aqui uma série de tv</string>
+    <string name="rsc_act_search_serie_loading">loading</string>
+</resources>

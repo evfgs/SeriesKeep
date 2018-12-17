@@ -39,7 +39,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:background="@null"
-                    android:hint="@string/rsc_act_search_movie_hint"
+                    android:hint="@string/rsc_act_search_serie_hint"
                     android:textSize="@dimen/textH2" />
             </android.support.design.widget.TextInputLayout>
         </android.support.v7.widget.Toolbar>
@@ -84,7 +84,7 @@
             android:layout_marginRight="15dip"
             android:layout_marginTop="5dip"
             android:background="@android:color/transparent"
-            android:text="@string/rsc_act_search_movie_result_not_found"
+            android:text="@string/rsc_act_search_serie_result_not_found"
             android:textAlignment="center"
             android:textColor="@color/colorTextDark"
             android:textSize="@dimen/textH2" />
