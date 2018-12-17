@@ -17,7 +17,7 @@ public interface MainComponent {
 
     void inject(Homepage_Activity homepageActivity);
 
-    void inject(SerieDetails_Activity activityMovie);
+    void inject(SerieDetails_Activity activitySerie);
 
     void inject(SearchSerie_Activity searchSerieActivity);
 
