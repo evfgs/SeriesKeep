@@ -27,12 +27,15 @@ Tecnologias utilizadas:
 		Utilizada para rodar tarefas assíncronas para carregar a lista de séries e não deixar o usuário travado numa tela enquanto a aplicação espera o processamento da requisição
 		
 	Dagger 2:
+	
 		É uma abordagem em tempo de compilação para injeção de dependências
 		
 	Retrofit:
+	
 		Para lidar com a parte de requisições HTTP foi consumida uma API REST utilizando Retrofit, pois a parte de configuração é bem mais simples(configuramos apenas o necessário para estabelecer a comunicação), a questão de serialização dos objetos(não precisamos fazer essa tarefa manualmente) e a usabilidade(é bem mais fácil realizar requisições com o Retrofit).
 		
 	Picasso:
+	
 		Utilizado para baixar, processar e configurar as imagens dentro da aplicação
 		
 		
